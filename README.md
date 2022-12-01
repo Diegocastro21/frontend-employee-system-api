@@ -1,3 +1,13 @@
+# frontend-employee-system-api
+
+* React
+* Axios
+* Bootstrap
+
+
+### Parte del backend
+[backend-list-of-users](https://github.com/Diegocastro21/backend-list-of-users.git)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
